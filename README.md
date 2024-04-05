@@ -1,5 +1,15 @@
 ![Statistics](https://myreadme.vercel.app/api/embed/mattpieterse?panels=userwelcome,userstatistics,commitgraph,toprepositories,toplanguages)
 
+# Technologies
+
+![](https://api.iconify.design/vscode-icons:file-type-csharp2.svg)
+![](https://api.iconify.design/vscode-icons:file-type-git.svg)
+![](https://api.iconify.design/vscode-icons:file-type-autohotkey.svg)
+![](https://api.iconify.design/vscode-icons:file-type-css.svg)
+![](https://api.iconify.design/vscode-icons:file-type-azure.svg)
+![]()
+
+
 <!--
 **mattpieterse/mattpieterse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
