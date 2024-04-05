@@ -1,4 +1,4 @@
-### Hi there 👋
+![Statistics](https://myreadme.vercel.app/api/embed/mattpieterse?panels=userwelcome,userstatistics,toprepositories,toplanguages,commitgraph)
 
 <!--
 **mattpieterse/mattpieterse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
