@@ -28,6 +28,7 @@
 ![](https://api.iconify.design/skill-icons:discordbots.svg)
 ![](https://api.iconify.design/skill-icons:mysql-dark.svg)
 ![](https://api.iconify.design/skill-icons:git.svg)
+![](https://api.iconify.design/skill-icons:ubuntu-light.svg)
 ![](https://api.iconify.design/vscode-icons:file-type-autohotkey.svg)
 
 <!--
