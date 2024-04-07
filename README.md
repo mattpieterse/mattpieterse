@@ -31,6 +31,10 @@
 ![](https://api.iconify.design/skill-icons:ubuntu-light.svg)
 ![](https://api.iconify.design/vscode-icons:file-type-autohotkey.svg)
 
+<a href="https://github.com/mpiet-za/TileTower">
+    <img src="https://api.iconify.design/skill-icons:git.svg" alt="Logo" width="48" height="48">
+  </a>
+
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
