@@ -29,11 +29,11 @@
 ![](https://api.iconify.design/skill-icons:mysql-dark.svg)
 ![](https://api.iconify.design/skill-icons:git.svg)
 ![](https://api.iconify.design/skill-icons:ubuntu-light.svg)
+![](https://api.iconify.design/skill-icons:githubactions-light.svg)
 ![](https://api.iconify.design/vscode-icons:file-type-autohotkey.svg)
 
-<a href="https://github.com/mpiet-za/TileTower">
-    <img src="https://api.iconify.design/skill-icons:git.svg" alt="Logo" width="48" height="48">
-  </a>
+<!-- <a href="https://github.com/mpiet-za/TileTower"> </a> -->
+<img src="https://api.iconify.design/skill-icons:git.svg" alt="Logo" width="48" height="48">
 
 <!--
 <picture>
