@@ -32,8 +32,45 @@
 ![](https://api.iconify.design/skill-icons:githubactions-light.svg)
 ![](https://api.iconify.design/vscode-icons:file-type-autohotkey.svg)
 
+#### Environments
+
+Windows OS has quickly become my second home — I have achieved advanced profficiency in operating system related concepts and I am comfortable with its development features and task automation. At home, I am running an Ubuntu Server, and as such, I am relatively capable of configuring and maintaining a basic server configuration on the Linux operating system.
+
+<div>
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:ubuntu-light.svg" alt="...">
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:windows-light.svg" alt="...">
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:visualstudio-light.svg" alt="...">
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:vscode-light.svg" alt="...">
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:idea-light.svg" alt="...">
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:androidstudio-light.svg" alt="...">
+</div>
+
+#### Tools and technologies
+
+<div>
+  <img width="24" height="24" src="" alt="...">
+  <img width="24" height="24" src="" alt="...">
+  <img width="24" height="24" src="" alt="...">
+  <img width="24" height="24" src="" alt="...">
+  <img width="24" height="24" src="" alt="...">
+</div>
+
+#### Languages and frameworks
+
+<div>
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:java-light.svg" alt="...">
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:cs.svg" alt="...">
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:html.svg" alt="...">
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:css.svg" alt="...">
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:javascript.svg" alt="...">
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:sass.svg" alt="...">
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:bootstrap.svg" alt="...">
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:dotnet.svg" alt="...">
+  <img width="24" height="24" src="https://api.iconify.design/skill-icons:markdown-light.svg" alt="...">
+    <img width="24" height="24" src="https://api.iconify.design/vscode-icons:file-type-autohotkey.svg" alt="...">
+</div>
+
 <!-- <a href="https://github.com/mpiet-za/TileTower"> </a> -->
-<img src="https://api.iconify.design/skill-icons:git.svg" alt="Logo" width="24" height="24">
 
 <!--
 <picture>
