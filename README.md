@@ -33,7 +33,7 @@
 ![](https://api.iconify.design/vscode-icons:file-type-autohotkey.svg)
 
 <!-- <a href="https://github.com/mpiet-za/TileTower"> </a> -->
-<img src="https://api.iconify.design/skill-icons:git.svg" alt="Logo" width="48" height="48">
+<img src="https://api.iconify.design/skill-icons:git.svg" alt="Logo" width="24" height="24">
 
 <!--
 <picture>
