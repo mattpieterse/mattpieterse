@@ -7,3 +7,10 @@
 </div>
 
 *Current streaks may be innacurate as most of my work is done on staging branches.*
+
+[#]: Skills
+
+<div align="center">
+  <br />
+  <br />  
+</div>
